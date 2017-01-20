@@ -1,0 +1,8 @@
+## 			ISSUES
+
+##    * = observed;  ** = working;  *** = done;
+
+
+#  * :  on line: 8 ::  replace "favicon.gif" with "favicon.ico" 
+
+#  * :  <files>    ::  convert file "favicon.gif" to "favicon.ico"
