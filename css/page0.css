@@ -1,0 +1,42 @@
+#page0 {
+	background-image:url('../images/backgroundPage0.png');
+	background-size:100% 100%;
+	width:100%;
+	height:100%;
+
+}
+
+#headerPage0 {
+	
+	color:white;
+	font-family:arial black;
+	font-size:1.4em;
+
+}
+
+#logoPage0 {
+	
+	position:relative;
+	top:10%;
+}
+
+#loadingPage0 {
+	
+
+	position:absolute;
+	bottom:30%;
+	left:35%;
+	
+}
+
+#footerPage0 {
+	
+	color:white;
+	font-family:calibri;
+	position:absolute;
+	bottom:10px;
+	text-align:center;
+	display:block;
+	width:100%;
+	
+}
